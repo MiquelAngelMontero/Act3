@@ -7,7 +7,7 @@ public class Test2{
         //Creación de un objeto Integer usando el primer constructor
         Integer num2=new Integer(20);
 
-        //Obtención del entero que almacena cada objeto Integer.
+        //Obtención del entero que almacena cada objeto Integer..
         //Si no se hace esto, las líneas siguientes causarían error
         //de compilación
         int n1=num1.intValue();
